@@ -31,6 +31,7 @@ body {
 }
 
 body {
+    background-img:url("cloudmoney.png");
   display: -ms-flexbox;
   display: -webkit-box;
   display: flex;
@@ -43,7 +44,7 @@ body {
 }
 
 .cover-container {
-   background-img:url("cloudmoney.png");
+ 
   max-width: 42em;
 }
 
@@ -99,7 +100,7 @@ body {
  
 }
 .cover .btn-lg {
-  background-img:url('cloudmoney.png');
+
   padding: .75rem 1.25rem;
   font-weight: 700;
 }
