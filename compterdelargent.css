@@ -26,12 +26,14 @@ a:hover {
 
 html,
 body {
+  
   height: 100%;
+   background-img:url("cloudmoney.png");
   background-color: #333;
 }
 
 body {
-    background-img:url("cloudmoney.png");
+   
   display: -ms-flexbox;
   display: -webkit-box;
   display: flex;
