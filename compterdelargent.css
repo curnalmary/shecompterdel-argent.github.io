@@ -95,6 +95,7 @@ body {
  * Cover
  */
 .cover {
+   background-img:url("cloudmoney.png");
   padding: 0 1.5rem;
  
 }
