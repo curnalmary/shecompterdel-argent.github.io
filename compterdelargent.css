@@ -105,6 +105,7 @@ body {
   padding: 0 1.5rem;
  background-image:url('cloudmoney.png') no-repeat  ;
   -webkit-background-size:cover;
+  background-size:cover;
  
 }
 .cover .btn-lg {
