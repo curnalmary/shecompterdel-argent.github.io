@@ -103,7 +103,7 @@ body {
  */
 .cover {
   padding: 0 1.5rem;
- background-image:url('cloudmoney.png') no-repeat  ;
+ background-image:url('cloudmoney.png') no-repeat , center ;
   -webkit-background-size:cover;
   -mod-background-size:cover;
   -a-background-size:cover;
