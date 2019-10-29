@@ -28,14 +28,7 @@ html,
 body {
   
   height: 100%;
-   background-image:url('cloudmoney.png')  ;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  -webkit-background-size:cover;
-  -mod-background-size:cover;
-  -a-background-size:cover;
-  background-size:cover;
+  
  
 
 }
@@ -66,7 +59,14 @@ body {
  * Header
  */
 .masthead {
- 
+  background-image:url('cloudmoney.png')  ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size:cover;
+  -mod-background-size:cover;
+  -a-background-size:cover;
+  background-size:cover;
   margin-bottom: 2rem;
 }
 
