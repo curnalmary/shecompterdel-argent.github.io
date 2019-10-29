@@ -50,6 +50,14 @@ body {
 .cover-container {
 
   max-width: 42em;
+   background-image:url('cloudmoney.png')  ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size:cover;
+  -mod-background-size:cover;
+  -a-background-size:cover;
+  background-size:cover;
 }
 
 
@@ -103,14 +111,7 @@ body {
  */
 .cover {
   padding: 0 1.5rem;
- background-image:url('cloudmoney.png')  ;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  -webkit-background-size:cover;
-  -mod-background-size:cover;
-  -a-background-size:cover;
-  background-size:cover;
+
   
  
 }
