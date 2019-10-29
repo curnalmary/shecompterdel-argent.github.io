@@ -103,7 +103,7 @@ body {
  */
 .cover {
   padding: 0 1.5rem;
- background-image:url('cloudmoney.png')no-repeat center ;
+ background-image:url('cloudmoney.png')no-repeat , center ;
  
 }
 .cover .btn-lg {
